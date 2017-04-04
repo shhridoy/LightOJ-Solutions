@@ -1,8 +1,7 @@
-# LightOJ-Solutions
-Think about new...........things.......
-This is my next level of ACM.
+# Solutions of LightOJ
+Think about the code and logic util you finish it.
 
-This codes was written by me. Try the best before you copy the code. Thing about the code and logic. Before copy the code you should make sure that you tried best to do with your own logic. But don't copy exactly same code. It is soo bad. ---- :)
+Try the best before you copy the code. Thing about the code and logic. Before copy the code you should make sure that you tried best to do with your own logic. But don't copy exactly same code. It is soo bad. ---- :)
 
 ### Coded by
 Md. Saiful Haque Hridoy
